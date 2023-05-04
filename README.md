@@ -16,6 +16,6 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshot  
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/13519212/236168463-4908f3ce-cae4-4358-b4ff-1173ae0a9b63.png)
